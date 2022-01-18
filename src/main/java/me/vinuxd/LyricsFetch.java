@@ -117,10 +117,9 @@ public class LyricsFetch extends JFrame implements ActionListener {
                     final JSONArray jsonarray = new JSONArray("[" + finalLyrics + "]");
                     final JSONObject jsonobject = jsonarray.getJSONObject(0);
                     lyricsArea.setText(
-                            "Title: " + jsonobject.getString("title") + "\n\n" + "Singer: "
-                                    + jsonobject.getString("artist")
-                                    + "\n\n"
-                                    + jsonobject.getString("lyrics").replace("EmbedShare URLCopyEmbedCopy", ""));
+                            "Title: " + jsonobject.getString("title") + "\n\n" + 
+                            "Singer: " + jsonobject.getString("artist") + "\n\n" +
+                            jsonobject.getString("lyrics").replace("EmbedShare URLCopyEmbedCopy", ""));
                     System.out.println("Success.\n");
                 } catch (final Exception e) {
                     System.out.println("ERROR: " + e.getMessage());
