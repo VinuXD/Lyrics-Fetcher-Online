@@ -11,9 +11,8 @@ A JAVA program made to fetch lyrics from internet.
 ![Screenshot](https://github.com/VinuXD/Lyrics-Fetcher-Online/blob/master/images/5.png)
 
 #### Clone to your PC
-
 For Windows (I guess)</br>
-`git clone https://github.com/VinuXD/Lyrics-Fetcher-Online`
+```git clone https://github.com/VinuXD/Lyrics-Fetcher-Online```
 
 ## Contributing
 
