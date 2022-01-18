@@ -4,11 +4,11 @@ A JAVA program made to fetch lyrics from internet.
 
 ## Screenshots
 
-![Screenshot](images\1.png)
-![Screenshot](images\2.png)
-![Screenshot](images\3.png)
-![Screenshot](images\4.png)
-![Screenshot](images\5.png)
+![Screenshot](https://github.com/VinuXD/Lyrics-Fetcher-Online/blob/master/images/1.png)
+![Screenshot](https://github.com/VinuXD/Lyrics-Fetcher-Online/blob/master/images/2.png)
+![Screenshot](https://github.com/VinuXD/Lyrics-Fetcher-Online/blob/master/images/3.png)
+![Screenshot](https://github.com/VinuXD/Lyrics-Fetcher-Online/blob/master/images/4.png)
+![Screenshot](https://github.com/VinuXD/Lyrics-Fetcher-Online/blob/master/images/5.png)
 
 #### Clone to your PC
 
