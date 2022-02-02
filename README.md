@@ -1,8 +1,4 @@
-```text
-
-API is down currently.
-
-```
+<h3 align="center">⚠ API is Down or unavailable ⚠</h3>
 
 ## Lyrics Fetcher Online
 
@@ -19,7 +15,11 @@ A JAVA program made to fetch lyrics from internet.
 
 * Clone this repository to your local machine.
 
-`git clone https://github.com/vinuxd/Lyrics-Fetcher-Online.git`
+``` text
+
+git clone https://github.com/vinuxd/Lyrics-Fetcher-Online.git
+
+```
 
 * Navigate to src>main>java>me>vinuxd>LyricsFetch.java
 
