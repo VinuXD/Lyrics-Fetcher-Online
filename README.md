@@ -1,6 +1,30 @@
+```text
+
+API is down currently.
+
+```
+
 ## Lyrics Fetcher Online
 
 A JAVA program made to fetch lyrics from internet.
+
+
+### Prerequisites
+
+* [JDK 17](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html)
+* A Code Editor [VS Code](https://code.visualstudio.com/) or [Eclipse](https://www.eclipse.org/ide/).
+* [Git](https://git-scm.com/downloads)
+
+### How To Run
+
+* Clone this repository to your local machine.
+
+`git clone https://github.com/vinuxd/Lyrics-Fetcher-Online.git`
+
+* Navigate to src>main>java>me>vinuxd>LyricsFetch.java
+
+* Run LyricsFetch.java.
+
 
 ## Screenshots
 
@@ -10,9 +34,6 @@ A JAVA program made to fetch lyrics from internet.
 ![Screenshot](https://github.com/VinuXD/Lyrics-Fetcher-Online/blob/master/images/4.png)
 ![Screenshot](https://github.com/VinuXD/Lyrics-Fetcher-Online/blob/master/images/5.png)
 
-#### Clone to your PC
-For Windows (I guess)</br>
-```git clone https://github.com/VinuXD/Lyrics-Fetcher-Online```
 
 ## Contributing
 
